@@ -25,7 +25,7 @@ A modern, AI-powered task management application built with React, TypeScript, a
 ### Prerequisites
 
 - Node.js (v16 or higher)
-- Bun package manager
+- npm package manager
 - Supabase account
 
 ### Installation
@@ -33,7 +33,7 @@ A modern, AI-powered task management application built with React, TypeScript, a
 1. Clone the repository
 2. Install dependencies:
 ```bash
-bun install
+npm install
 ```
 
 3. Create a `.env` file with your Supabase credentials:
