@@ -44,7 +44,7 @@ VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
 
 4. Start the development server:
 ```bash
-bun dev
+npm run dev
 ```
 
 The application will be available at `http://localhost:5173`
@@ -62,10 +62,8 @@ The application will be available at `http://localhost:5173`
 
 ## Available Scripts
 
-- `bun dev` - Start development server
-- `bun build` - Build for production
-- `bun preview` - Preview production build
-- `bun lint` - Run ESLint
+- `npm run dev` - Start development server
+- `npm run build` - Build for production
 
 ## Contributing
 
